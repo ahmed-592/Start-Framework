@@ -1,0 +1,8 @@
+.layer {
+  background-color: rgba(26, 181, 150, 0.9);
+  opacity: 0;
+  transition: all 1s;
+}
+.inner:hover .layer {
+  opacity: 1;
+}

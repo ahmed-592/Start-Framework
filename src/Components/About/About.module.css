@@ -1,0 +1,13 @@
+.about{
+    padding-block: 13rem;
+    
+}
+
+
+@media screen and (min-width:768px) {
+    .about{
+    padding-inline: 12rem;
+    
+}
+
+}

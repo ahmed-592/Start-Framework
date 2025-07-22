@@ -1,0 +1,28 @@
+h2,i{
+    color: #2C3E50;
+
+    
+}
+
+
+
+.inputOpac{
+    
+    color: #1abc9c;
+   top: -30px;
+   transition: top 0.5s;
+    
+}
+.inputNonOpac{
+    opacity: 0;
+    top: -20px;
+     transition: all 0.5s;
+
+}
+
+.btnn{
+    background-color: #1abc9c;
+    color: #fff;
+    border: none;
+    
+}
