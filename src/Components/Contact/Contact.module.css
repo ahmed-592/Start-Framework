@@ -9,13 +9,13 @@ h2,i{
 .inputOpac{
     
     color: #1abc9c;
-   top: -30px;
+   top: -1.875rem;
    transition: top 0.5s;
     
 }
 .inputNonOpac{
     opacity: 0;
-    top: -20px;
+    top: -1.25rem;
      transition: all 0.5s;
 
 }

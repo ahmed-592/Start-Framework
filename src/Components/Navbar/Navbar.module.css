@@ -11,7 +11,7 @@ nav{
 }
 
 .navPadding{
-    padding-block: 15px;
+    padding-block: .9375rem;
 transition: all 0.5s;
 }
 .navNonPadding{
